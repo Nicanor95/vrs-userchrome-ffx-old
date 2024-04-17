@@ -2,6 +2,8 @@
 
  A userchrome for firefox, it's compact and has tabs instead of buttons.
  Based on [real_compact_mode.css](https://github.com/Aris-t2/CustomCSSforFx/blob/master/legacy/proton/real_compact_mode.css) by [CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx)
+
+ *Deprecated, Use [vrs-userchrome-ffx](https://github.com/Nicanor95/vrs-userchrome-ffx) instead. This one may still work on your build of the browser however.*
  
 ## How to use
 
